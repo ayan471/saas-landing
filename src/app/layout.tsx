@@ -18,7 +18,7 @@ const robotoCondensed = Roboto_Condensed({
 
 export const metadata: Metadata = {
   title: "Light Saas Landing Page",
-  description: "Template created by Frontend Tribe",
+  description: "A landing page created using  nextjs and framer",
 };
 
 export default function RootLayout({
